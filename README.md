@@ -5,7 +5,7 @@ This code repository will contain the source code and notes created during the *
 
 We will use the
 
-* [indraw web site](https://indraw.io) to create our flowcharts,
+* [draw.io web site](https://draw.io) to create our flowcharts,
 * the [SimpleIDE](http://learn.parallax.com/tutorials/language/propeller-c/propeller-c-set-simpleide) software tool, and
 * the [Activity Board WX](https://www.parallax.com/product/32912) microcontroller from Parallax.
 

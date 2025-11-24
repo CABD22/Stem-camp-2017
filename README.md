@@ -20,3 +20,9 @@ We will build circuits with an assortment of electronic and prototyping parts su
 * wireless radio,
 * SD card,
 * jumper wires, and a breadboard.
+
+---
+
+## Power Automate Calendar Sync Notes
+
+See `docs/google-outlook-sync-guidance.md` for a clean, duplication-safe design to mirror Google Calendar events (with Zoom details) into Outlook and prepare for future bi-directional sync.
